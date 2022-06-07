@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... Email: ionatancegodari@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Moldovan and know Russian fluent in English and know Romanian
+- ⚡ Fun fact: ... Moldovan and know Russian fluent in English and fluent in Romanian
 -->
