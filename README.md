@@ -16,6 +16,7 @@ Coding Languages that I am proficiant in:
   - GIT
   - jQuery
   - Bootstrap
+
 Current Languages that I am currently improving on:
   - React
   - Swift
