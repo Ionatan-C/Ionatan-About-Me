@@ -1,13 +1,24 @@
-### Here is something about me
+A little bit about myself.
 
-Here are some ideas to get you started:
+I am student at University of Worcester where I studied COMPUTING BSC (HONS), and now that am finished with my third year am excited to become a great software developer and am keen on learning and developing new skills. I worked as a freelancer software developer/engineer throughout my second and third year and I am really excited to get back into working with a team again.
 
-- 🔭 I’m currently working on ... University 
-- 🌱 I’m currently learning ... Computing / Computer Software Engineering  / Web Development
-- 👯 I’m looking to collaborate on ... Software Engineering / Web Development
-- 🤔 I’m looking for help with ... JavaScript / Java / C#
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... Email: ionatancegodari@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Moldovan and know Russian fluent in English and fluent in Romanian
--->
+Coding Languages that I am proficiant in:
+  - .Net Framework
+  - C#
+  - Python
+  - Java
+  - C++
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - SQL
+  - GIT
+  - jQuery
+  - Bootstrap
+Current Languages that I am currently improving on:
+  - React
+  - Swift
+  - TypeScript
+  - VBA
+  - Angular
